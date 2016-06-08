@@ -4,19 +4,19 @@
 - 42SH
 <42SH>
 coder un shell avec pour exemple le tcsh
-+ commande avec execve + path
-+ pipe - mutlipipe - redirection - env - setenv - echo - segfault...
+commande avec execve + path
+ pipe - mutlipipe - redirection - env - setenv - echo - segfault...
 
 - TETRIS
 <TETRIS>
 coder le premier tetris avec la ncurses de la lib c
-+ un mode debug
+un mode debug
 
 # DEUX MINI PROJET
 - MINITALK
 <MINITALK>
 Faire communiquer de processus different (minichat)
-+ fork & pid
+fork & pid
 
 - SUDOKI-BI
 <SUDOKI-BI>
