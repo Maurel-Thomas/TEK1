@@ -2,16 +2,18 @@
 
 # DEUX GROS PORJETS
 - 42SH
+<42SH>
+coder un shell avec pour exemple le tcsh
++ commande avec execve + path
++ pipe - mutlipipe - redirection - env - setenv - echo - segfault...
+<42SH>
 - TETRIS
 
 # DEUX MINI PROJET
 - MINITALK
 - SUDOKI-BI
 
-<42SH>
-coder un shell avec pour exemple le tcsh
-+ commande avec execve + path
-+ pipe - mutlipipe - redirection - env - setenv - echo - segfault...
+
 
 <TETRIS>
 coder le premier tetris avec la ncurses de la lib c
