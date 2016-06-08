@@ -1,12 +1,12 @@
 # TEK1 1ER ANNEE (TEK1)
 
 # DEUX GROS PORJETS
--42sh
--Tetris
+- 42SH
+- TETRIS
 
 # DEUX MINI PROJET
--minitalk
--sudoki-bi
+- MINITALK
+- SUDOKI-BI
 
 <42SH>
 coder un shell avec pour exemple le tcsh
